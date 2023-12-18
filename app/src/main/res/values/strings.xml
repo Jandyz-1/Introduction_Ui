@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Introduction</string>
+    <string name="full_name">Jandyz</string>
+    <string name="title">Android Developer Extraordinaire</string>
+    <string name="number_phone">0372717502</string>
+    <string name="gmail">jandyz.dev@gmail.com</string>
+    <string name="contact">"@jandyz"</string>
+</resources>
